@@ -30,7 +30,7 @@
 <br>
 <div align=center>
   <!-- Using the public readme-stats endpoints (no private-count parameter) -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nltdat&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=nltdat&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=nltdat&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nltdat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
@@ -38,18 +38,12 @@
 
 <br/><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nltdat&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nltdat&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nltdat&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nltdat&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nltdat/nltdat/output/github-contribution-grid-snake.svg" />
-  
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nltdat/nltdat/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
