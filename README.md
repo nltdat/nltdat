@@ -22,18 +22,18 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,docker" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,express,mongodb,nextjs,mysql,pótgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,neovim,github,tailwind,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,django,express,mongodb,nextjs,mysql,postgresql" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <!-- Using the public readme-stats endpoints (no private-count parameter) -->
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=nltdat&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nltdat&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=nltdat&theme=catppuccin-macchiato&border_radius=10" alt="GitHub Streak" /></a>
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nltdat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=nltdat&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nltdat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  </br>
 </div>
 
 <br/><br/>
