@@ -2,6 +2,9 @@
 
 name: Generate Snake
 
+permissions:
+  contents: write
+
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
@@ -24,6 +27,8 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
     # Generates the snake  
       - uses: Platane/snk@v3
@@ -42,7 +47,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v4
